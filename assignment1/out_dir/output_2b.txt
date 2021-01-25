@@ -1,0 +1,31 @@
+Training For batch size 1:
+Weights learned: [[2.99988793]
+ [1.00054521]
+ [1.92867958]]
+Time taken: 6.418580055236816 seconds
+Number of iterations: 136000
+Squared error difference from original hypothesis: 0.0016956372037033299
+------------------------
+Training For batch size 100:
+Weights learned: [[2.91978538]
+ [1.01451215]
+ [1.99195909]]
+Time taken: 2.746649742126465 seconds
+Number of iterations: 13000
+Squared error difference from original hypothesis: 0.0022365479908657373
+------------------------
+Training For batch size 10000:
+Weights learned: [[2.99679098]
+ [1.00001817]
+ [1.99918907]]
+Time taken: 4.643265008926392 seconds
+Number of iterations: 22707
+Squared error difference from original hypothesis: 3.65191102866796e-06
+------------------------
+Training For batch size 1000000:
+Weights learned: [[2.6444313 ]
+ [1.07733137]
+ [1.97358881]]
+Time taken: 68.06900763511658 seconds
+Number of iterations: 7539
+Squared error difference from original hypothesis: 0.04436893174614832

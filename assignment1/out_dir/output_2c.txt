@@ -1,0 +1,13 @@
+Test error: 0.9829469215000001
+Running test data on batch size 1:
+Error: 1.2520091801392925
+------------------------------------
+Running test data on batch size 100:
+Error: 0.9989719267414745
+------------------------------------
+Running test data on batch size 10000:
+Error: 0.9831128877449581
+------------------------------------
+Running test data on batch size 1000000:
+Error: 1.3470400084773078
+------------------------------------

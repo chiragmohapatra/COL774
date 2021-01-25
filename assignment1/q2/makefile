@@ -1,0 +1,2 @@
+all:
+	python stochastic.py

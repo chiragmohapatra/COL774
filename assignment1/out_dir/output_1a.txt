@@ -1,0 +1,4 @@
+Learning rate eta: 0.01
+Stopping parameter epsilon: 1e-10
+Number of epochs required to converge: 918
+Weights learned by model: [[0.99653605 0.00135781]]
